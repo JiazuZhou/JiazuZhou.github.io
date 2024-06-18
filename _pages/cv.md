@@ -17,7 +17,7 @@ Education
 Work experience
 ======
 * Aug 2022 - present: Postdoc Researcher
-* ETH Singapore Centre (SEC)
+* FCL, ETH Singapore Centre (SEC)
   *	Analyzed urban mobility patterns through large-scale mobile phone data.
   *	Estimated charging demand under various scenarios and vehicle-grid integration mode. 
   * Developed control and optimization models for Electric Vehicle (EV) charging/discharging, integrating the energy and transportation sectors. 
