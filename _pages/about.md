@@ -24,9 +24,9 @@ I am currently a postdoctoral researcher at Future Cities Laboratory at ETH Sing
 
 ### Current Projects
 
-- **Project 1**: Powering the City (POW) ([https://fcl.ethz.ch/research/cycles-and-districts/powering-the-city.html]).
-- **Project 2**: Brief description or goal of Project 2.
+- **Project 1**: Powering the City [ (POW)](https://fcl.ethz.ch/research/cycles-and-districts/powering-the-city.html).
 - ...
+  
 
 ### GitHub Repositories
 
