@@ -13,7 +13,7 @@ Hello, I'm Jiazu, a researcher passionate about transportation and urban mobilit
 
 ## About Me
 
-I am currently a postdoctoral researcher at Future Cities Laboratory at ETH Singapore Centre. My research focuses on transportation-energy coupling and urban mobility modeling. I am particularly interested in electric vehicles (EVs).
+I am currently a postdoctoral researcher at Future Cities Laboratory [ (FCL)](https://fcl.ethz.ch/) at ETH Singapore Centre [ (SEC)](https://sec.ethz.ch/). My research focuses on transportation-energy coupling and urban mobility modeling. I am particularly interested in electric vehicles (EVs).
 
 ## Research Interests
 
