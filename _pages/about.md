@@ -9,30 +9,30 @@ redirect_from:
 
 # Welcome to My Academic Profile!
 
-Hello, I'm [Your Name], a [Your Current Position or Role] passionate about [Your Research Interests or Field]. Here, you'll find insights into my academic journey, research projects, and contributions to the field.
+Hello, I'm Jiazu, a researcher passionate about transportation and urban mobility. 
 
 ## About Me
 
-I am currently [briefly mention your current role or status, e.g., a PhD candidate at [University], a postdoctoral researcher at [Institution], etc.]. My research focuses on [briefly describe your main research interests or focus areas]. I am particularly interested in [specific aspect of your field].
+I am currently a postdoctoral researcher at Future Cities Laboratory at ETH Singapore Centre. My research focuses on transportation-energy coupling and urban mobility modeling. I am particularly interested in electric vehicles (EVs).
 
 ## Research Interests
 
-- [List 2-3 specific research interests or topics]
-- [Explain briefly why these topics interest you and their significance]
-
-## Projects
+- Connected automated vehicle (CAV)
+- Urban mobility
+- Big data analytics for urban transportation
+- Electric vehicle (EV)
 
 ### Current Projects
 
-- **Project 1**: Brief description or goal of Project 1.
+- **Project 1**: Powering the City (POW) ([https://fcl.ethz.ch/research/cycles-and-districts/powering-the-city.html]).
 - **Project 2**: Brief description or goal of Project 2.
 - ...
 
 ### GitHub Repositories
 
 Explore my GitHub repositories where I share projects related to:
-- [Mention any specific projects or types of projects you have worked on, e.g., data analysis, machine learning models, simulations, etc.]
-- [Provide links to relevant repositories]
+- Coming soon...
+  
 
 ## Publications
 
@@ -40,7 +40,7 @@ Explore my GitHub repositories where I share projects related to:
 
 ## Contact Me
 
-I'm always open to collaborations and discussions. Feel free to reach out via [email](mailto:your.email@example.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/yourprofile).
+I'm always open to collaborations and discussions. Feel free to reach out via [email](mailto:jiazu.zhou@sec.ethz.ch) or connect with me on [LinkedIn](https://www.linkedin.com/in/jiazu-zhou-77b67614b/?originalSubdomain=sg).
 
 Thank you for visiting, and I look forward to connecting with you!
 
