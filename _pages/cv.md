@@ -11,27 +11,27 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Transportation, Nanyang Technological University, Singapore (NTU), 2022
+* B.S. in Mechanical Engineering, University of Science and Technology of China (USTC), 2017
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Aug 2022 - present: Postdoc Researcher
+* ETH Singapore Centre (SEC)
+  *	Analyzed urban mobility patterns through large-scale mobile phone data.
+  *	Estimated charging demand under various scenarios and vehicle-grid integration mode. 
+  * Developed control and optimization models for Electric Vehicle (EV) charging/discharging, integrating the energy and transportation sectors. 
+* Supervisor:
+  * Advisor: Asst. Prof. Markus Schläpfer, Columbia University, New York, USA;
+  * Assoc. Prof. Lee Bu Sung, Nanyang Technological University, Singapore; 
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* May 2024 - present: Visiting Postdoc Researcher
+* Columbia University
+  *	Modeled human mobility through large-scale mobile phone data of US cities.
+* Supervisor:
+  * Advisor: Asst. Prof. Markus Schläpfer, Columbia University, New York, USA;
+  * Assoc. Prof. Lee Bu Sung, Nanyang Technological University, Singapore; 
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
 Skills
 ======
 * Skill 1
