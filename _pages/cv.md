@@ -32,6 +32,7 @@ Work experience
     * Advisor: Asst. Prof. Markus Schläpfer, Columbia University, New York, USA;
     * Assoc. Prof. Lee Bu Sung, Nanyang Technological University, Singapore; 
 
+
 Skills
 ======
 * Skill 1
