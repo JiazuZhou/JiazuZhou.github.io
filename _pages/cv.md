@@ -17,20 +17,20 @@ Education
 Work experience
 ======
 * Aug 2022 - present: Postdoc Researcher
-* FCL, ETH Singapore Centre (SEC)
-  *	Analyzed urban mobility patterns through large-scale mobile phone data.
-  *	Estimated charging demand under various scenarios and vehicle-grid integration mode. 
-  * Developed control and optimization models for Electric Vehicle (EV) charging/discharging, integrating the energy and transportation sectors. 
-* Supervisor:
-  * Advisor: Asst. Prof. Markus Schläpfer, Columbia University, New York, USA;
-  * Assoc. Prof. Lee Bu Sung, Nanyang Technological University, Singapore; 
+  * FCL, ETH Singapore Centre (SEC)
+    *	Analyzed urban mobility patterns through large-scale mobile phone data.
+    *	Estimated charging demand under various scenarios and vehicle-grid integration mode. 
+    * Developed control and optimization models for Electric Vehicle (EV) charging/discharging, integrating the energy and transportation sectors. 
+  * Supervisor:
+    * Advisor: Asst. Prof. Markus Schläpfer, Columbia University, New York, USA;
+    * Assoc. Prof. Lee Bu Sung, Nanyang Technological University, Singapore; 
 
 * May 2024 - present: Visiting Postdoc Researcher
-* Columbia University
-  *	Modeled human mobility through large-scale mobile phone data of US cities.
-* Supervisor:
-  * Advisor: Asst. Prof. Markus Schläpfer, Columbia University, New York, USA;
-  * Assoc. Prof. Lee Bu Sung, Nanyang Technological University, Singapore; 
+  * Columbia University
+    *	Modeled human mobility through large-scale mobile phone data of US cities.
+  * Supervisor:
+    * Advisor: Asst. Prof. Markus Schläpfer, Columbia University, New York, USA;
+    * Assoc. Prof. Lee Bu Sung, Nanyang Technological University, Singapore; 
 
 Skills
 ======
